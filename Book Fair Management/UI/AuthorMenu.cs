@@ -1,7 +1,7 @@
 ﻿using Book_Fair_Management.Model;
 using System;
 
-namespace BookFairManagement.UI
+namespace Book_Fair_Management.UI
 {
     public static class AuthorMenu
     {

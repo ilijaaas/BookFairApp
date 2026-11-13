@@ -1,7 +1,7 @@
 ﻿using System;
-using BookFairManagement.UI;
+using Book_Fair_Management.UI;
 
-namespace BookFairManagement
+namespace Book_Fair_Management
 {
     class Program
     {

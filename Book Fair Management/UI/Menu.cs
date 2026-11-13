@@ -1,11 +1,11 @@
 ﻿using System;
-using static BookFairManagement.UI.VisitorMenu;
-using static BookFairManagement.UI.AuthorMenu;
-using static BookFairManagement.UI.BookMenu;
-using static BookFairManagement.UI.PurchaseMenu;
-using static BookFairManagement.UI.PublisherMenu;
+using static Book_Fair_Management.UI.VisitorMenu;
+using static Book_Fair_Management.UI.AuthorMenu;
+using static Book_Fair_Management.UI.BookMenu;
+using static Book_Fair_Management.UI.PurchaseMenu;
+using static Book_Fair_Management.UI.PublisherMenu;
 
-namespace BookFairManagement.UI
+namespace Book_Fair_Management.UI
 {
     public static class Menu
     {

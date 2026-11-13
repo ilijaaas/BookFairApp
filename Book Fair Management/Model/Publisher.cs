@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Book_Fair_Management.Serialization;
 
 namespace Book_Fair_Management.Model
 {
