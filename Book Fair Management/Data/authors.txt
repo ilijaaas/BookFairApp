@@ -1,0 +1,2 @@
+1|Petar|Petrovic|1949-01-01|1|+381632233455|petarpetrovic@gmail.com|1|30
+2|Aleksa|Okuka|2005-06-12|2|+8484121421|aleksa|5|2
